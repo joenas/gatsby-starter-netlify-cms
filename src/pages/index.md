@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Epic radikal app idea
+title: Epic radikal app idea that masa came up with
 image: /img/home-jumbotron.jpg
 heading: Stuff
 subheading: "It's so epic you wouldn't believe it. "
@@ -12,6 +12,10 @@ intro:
   blurbs:
     - image: /img/products-grid2.jpg
       text: Test blurb
+    - image: /img/coffee-gear.png
+      text: Blabla coffe
+    - image: /img/blog-index.jpg
+      text: More
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
